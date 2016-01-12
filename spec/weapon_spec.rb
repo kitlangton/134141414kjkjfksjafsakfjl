@@ -129,3 +129,6 @@ describe Weapon do
 
 end
 
+# ~> /Users/kitlangton/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:54:in `require': cannot load such file -- spec_helper (LoadError)
+# ~> 	from /Users/kitlangton/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:54:in `require'
+# ~> 	from -:1:in `<main>'

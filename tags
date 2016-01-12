@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BattleBot	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/battle_bot.rb	/^class BattleBot$/;"	c
+Weapon	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/weapon.rb	/^class Weapon$/;"	c
+attack	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/battle_bot.rb	/^  def attack(enemy_bot)$/;"	f	class:BattleBot
+bot	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/weapon.rb	/^  def bot$/;"	f	class:Weapon
+bot=	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/weapon.rb	/^  def bot=(battle_bot)$/;"	f	class:Weapon
+count	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/battle_bot.rb	/^  def self.count$/;"	F	class:BattleBot
+dead?	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/battle_bot.rb	/^  def dead?$/;"	f	class:BattleBot
+defend_against	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/battle_bot.rb	/^  def defend_against(enemy_bot)$/;"	f	class:BattleBot
+drop_weapon	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/battle_bot.rb	/^  def drop_weapon$/;"	f	class:BattleBot
+has_weapon?	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/battle_bot.rb	/^  def has_weapon?$/;"	f	class:BattleBot
+heal	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/battle_bot.rb	/^  def heal$/;"	f	class:BattleBot
+initialize	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/battle_bot.rb	/^  def initialize(name)$/;"	f	class:BattleBot
+initialize	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/weapon.rb	/^  def initialize(name, damage = 20)$/;"	f	class:Weapon
+pick_up	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/battle_bot.rb	/^  def pick_up(weapon)$/;"	f	class:BattleBot
+picked_up?	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/weapon.rb	/^  def picked_up?$/;"	f	class:Weapon
+receive_attack_from	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/battle_bot.rb	/^  def receive_attack_from(enemy_bot)$/;"	f	class:BattleBot
+take_damage	/Users/kitlangton/Viking/assessments/week1/134141414kjkjfksjafsakfjl/lib/battle_bot.rb	/^  def take_damage(damage)$/;"	f	class:BattleBot
